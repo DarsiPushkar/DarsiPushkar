@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm Darsi Pushkar
 
 ## 🎓 Education
-**B.Tech in Information Technology**  
-[Your College Name, City]  
-CGPA: [Your CGPA] (2021–2025)
+**B.Tech in Computer Science and Engineering**  
+[Geethanjali Institute of Science and Technology, Nellore]  
+CGPA: [8.6] (2021–2025)
 
 ---
 
