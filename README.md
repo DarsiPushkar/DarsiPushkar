@@ -9,48 +9,54 @@ CGPA: [8.6] (2021–2025)
 
 ## 💻 Tech Stack
 
-### **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="180"><strong>Programming Languages</strong></td>
+    <td valign="top">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    </td>
+  </tr>
 
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+  <tr>
+    <td valign="top"><strong>Frameworks &amp; Technologies</strong></td>
+    <td valign="top">
+      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img alt="MERN" src="https://img.shields.io/badge/MERN-MongoDB%20|%20Express%20|%20React%20|%20Node-2E8B57?style=for-the-badge" />
+      <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge" />
+      <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-6F42C1?style=for-the-badge" />
+    </td>
+  </tr>
 
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+  <tr>
+    <td valign="top"><strong>Database</strong></td>
+    <td valign="top">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
 
-### **Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+  <tr>
+    <td valign="top"><strong>Tools &amp; Platforms</strong></td>
+    <td valign="top">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img alt="Taiga" src="https://img.shields.io/badge/Taiga-00B2A9?style=for-the-badge" />
+    </td>
+  </tr>
 
-### **AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-FF6347?style=for-the-badge&logoColor=white"/>
-</p>
+  <tr>
+    <td valign="top"><strong>Core Concepts</strong></td>
+    <td valign="top">
+      Agentic AI • REST APIs • Database Management • Performance Optimization
+    </td>
+  </tr>
 
-### **Tools / Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+
+</table>
+
 
 
 ## 🚀 Projects
