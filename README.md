@@ -2,8 +2,8 @@
 
 ## 🎓 Education
 **B.Tech in Computer Science and Engineering**  
-<b>Geethanjali Institute of Science and Technology, Nellore. <b> <br>
-CGPA: 8.6 (2021–2025)
+Geethanjali Institute of Science and Technology, Nellore.<br>
+<b>CGPA: 8.6</b> (2021–2025)
 
 ---
 
