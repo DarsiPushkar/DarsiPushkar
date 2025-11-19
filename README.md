@@ -82,9 +82,6 @@ Geethanjali Institute of Science and Technology, Nellore.<br>
 - Developed modules for mobile and web applications  
 - Worked on real-time AI assisted workflows
 
-**Process Executive Intern**  
-- Assisted in IT-related documentation and workflow optimization  
-- Supported internal tools and operational systems
 
 ---
 
@@ -92,7 +89,7 @@ Geethanjali Institute of Science and Technology, Nellore.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darsi-pushkar)  
 📧 **Email:** pushkardarsi965@gmail.com  
-📱 **Phone:** [Your Phone Number]
+📱 **Phone:** [+91 6305088252]
 
 ---
 
