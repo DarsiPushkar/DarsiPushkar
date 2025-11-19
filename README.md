@@ -91,8 +91,12 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/darsi-pushkar">
+  <a href="https://www.linkedin.com/in/darsi-pushkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DarsiPushkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -102,6 +106,7 @@
 </p>
 
 <hr/>
+
 
 
 ## 📊 GitHub Stats
