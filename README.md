@@ -1,46 +1,102 @@
-## Hi there 👋
+# 👋 Hi there! I'm Darsi Pushkar
 
-<!--
-**DarsiPushkar/DarsiPushkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 👋 Hi, I’m Darsi Pushkar
-**Full Stack Developer Intern • Python | JavaScript | Streamlit | React**
-
-📫 pushkardarsi965@gmail.com • [Portfolio](https://your-portfolio-url) • [LinkedIn](https://www.linkedin.com/in/darsi-pushkar)
+## 🎓 Education
+**B.Tech in Information Technology**  
+[Your College Name, City]  
+CGPA: [Your CGPA] (2021–2025)
 
 ---
 
-## 🔭 Projects
-- **Agentic-TO-DO-Application** — Streamlit task manager using LLM agents.  
-- **Research-Assistant** — Data / ML helper scripts.  
-*(Pin the repos you want visible on your profile — see Step D)*
+## 💻 Tech Stack
+
+### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### **Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### **AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FF6347?style=for-the-badge&logoColor=white"/>
+</p>
+
+### **Tools / Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+
+## 🚀 Projects
+
+- **Agentic-TO-DO-Application**  
+  Built an LLM-powered task assistant using Python + Streamlit.  
+  _Stack: Python, Streamlit, Agents_
+
+- **Research Assistant**  
+  Automates research queries and data summarization.  
+  _Stack: Python, OpenAI API_
+
+- **Amazon React Project**  
+  Amazon clone with cart and login functionality.  
+  _Stack: React.js_
+
+- **Customer Churn Prediction**  
+  ML model to identify customers likely to leave.  
+  _Stack: Python, ML, Pandas, Scikit-learn_
 
 ---
 
-## 🛠 Tech Stack
-Python • JavaScript • React • Streamlit • Flask • SQL
+## 💼 Experience
+
+**Full Stack Developer Intern** – Innovon Technologies  
+- Built full-stack systems using AI-powered tools like Cursor & Copilot  
+- Developed modules for mobile and web applications  
+- Worked on real-time AI assisted workflows
+
+**Process Executive Intern**  
+- Assisted in IT-related documentation and workflow optimization  
+- Supported internal tools and operational systems
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darsi-pushkar)  
+📧 **Email:** pushkardarsi965@gmail.com  
+📱 **Phone:** [Your Phone Number]
 
 ---
 
 ## 📊 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DarsiPushkar&show_icons=true&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarsiPushkar&layout=compact&theme=radical" />
 
-<br clear="left" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarsiPushkar&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarsiPushkar&layout=compact&theme=radical)
 
-## ✨ More
-- 🔭 Currently: Building Agentic-TO-DO-Application  
-- 🌱 Learning: Advanced ML / System design
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
