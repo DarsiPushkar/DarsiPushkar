@@ -8,7 +8,6 @@
   <strong>CGPA:</strong> 8.6 (2021–2025)
 </p>
 
-
 ## 💻 Tech Stack
 
 <table>
@@ -18,7 +17,6 @@
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      
     </td>
   </tr>
 
@@ -45,7 +43,7 @@
     <td valign="top">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img alt="GitHub Actions" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
       <img alt="Taiga" src="https://img.shields.io/badge/Taiga-00B2A9?style=for-the-badge" />
     </td>
   </tr>
@@ -56,8 +54,6 @@
       Agentic AI • REST APIs • Database Management • Performance Optimization
     </td>
   </tr>
-
-
 </table>
 
 
