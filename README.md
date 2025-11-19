@@ -64,12 +64,13 @@
 ## 🚀 Projects
 
 - **Agentic-TO-DO-Application**  
-  Built an LLM-powered task assistant using Python + Streamlit.  
+  Built an LLM-powered task assistant using Python + React.js.  
   _Stack: Python, Streamlit, Agents_
 
 - **Research Assistant**  
   Automates research queries and data summarization.  
-  _Stack: Python, OpenAI API_
+  _Stack: Python, Groq API, Llama Models_
+
 
 - **Customer Churn Prediction**  
   ML model to identify customers likely to leave.  
