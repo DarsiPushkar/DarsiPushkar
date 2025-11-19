@@ -81,13 +81,15 @@
 
 ## 💼 Experience
 
-**Full Stack Developer Intern** – Innovon Technologies  
-- Built full-stack systems using AI-powered tools like Cursor & Copilot  
-- Developed modules for mobile and web applications  
-- Worked on real-time AI assisted workflows
+**Intern Engineer – Full Stack Developer (Onsite)**  
+*Innovon Technologies, Hyderabad — Aug 2025–Present*
 
+- Contributing to **ReceiptSnap AI**, working across frontend (React.js) and backend (Django, MongoDB) for both web and mobile platforms.  
+- Built and integrated **RESTful APIs**, managed GitHub repositories, and automated **VPS deployments** using CI/CD (GitHub Actions).  
+- Improved backend performance with **query optimization, indexing, caching, pagination, and connection pooling**.  
+- Handled **iOS build generation**, debugging, and **App Store deployments**, ensuring stable production releases.  
+- Implemented **LLMs, LangChain, LangGraph, and Agentic AI** to add intelligent automation into full-stack solutions.
 
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 
