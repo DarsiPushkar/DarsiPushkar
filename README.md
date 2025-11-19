@@ -87,13 +87,21 @@
 
 ---
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darsi-pushkar)  
-📧 **Email:** pushkardarsi965@gmail.com  
-📱 **Phone:** [+91 6305088252]
+<p align="center">
+  <a href="https://www.linkedin.com/in/darsi-pushkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
+<p align="center">
+  📧 <strong>Email:</strong> pushkardarsi965@gmail.com <br/>
+  📱 <strong>Phone:</strong> +91 6305088252
+</p>
+
+<hr/>
+
 
 ## 📊 GitHub Stats
 
