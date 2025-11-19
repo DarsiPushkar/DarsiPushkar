@@ -69,10 +69,6 @@ CGPA: [8.6] (2021–2025)
   Automates research queries and data summarization.  
   _Stack: Python, OpenAI API_
 
-- **Amazon React Project**  
-  Amazon clone with cart and login functionality.  
-  _Stack: React.js_
-
 - **Customer Churn Prediction**  
   ML model to identify customers likely to leave.  
   _Stack: Python, ML, Pandas, Scikit-learn_
