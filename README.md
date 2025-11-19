@@ -1,11 +1,13 @@
-# 👋 Hi there! I'm Darsi Pushkar
+<h1 align="center">👋 Hi there! I'm Darsi Pushkar</h1>
 
-## 🎓 Education
-**B.Tech in Computer Science and Engineering**  
-Geethanjali Institute of Science and Technology, Nellore.<br>
-<b>CGPA: 8.6</b> (2021–2025)
+<h2 align="center">🎓 Education</h2>
 
----
+<p align="center">
+  <strong>B.Tech in Computer Science and Engineering</strong><br/>
+  Geethanjali Institute of Science and Technology, Nellore.<br/>
+  <strong>CGPA:</strong> 8.6 (2021–2025)
+</p>
+
 
 ## 💻 Tech Stack
 
